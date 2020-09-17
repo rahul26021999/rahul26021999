@@ -1,37 +1,7 @@
-<!--
-**rahul26021999/rahul26021999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋, I'm Rahul Gupta
 
-
--->
-
-
-
-![Profile views](https://gpvc.arturio.dev/rahul26021999)
-<p align="center">
-    ### Hi there 👋, I'm Rahul Gupta
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br />
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-  </p>
+![Profile views](https://gpvc.arturio.dev/rahul26021999)  
 
 - 🔭 I’m currently working on Larvel Development
 - 🌱 I’m currently learning Python 
@@ -52,7 +22,9 @@ Android | Laravel | PHP | MYSQL | MongoDB | Firebase | Kotlin | Java | C++ | Pyt
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' hspace="20">](https://www.linkedin.com/in/rahul26021999/)                                  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' hspace="20">](https://www.instagram.com/rahulgupta_02/)                                    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' hspace="20">](https://twitter.com/rahul26021999)                                                   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40' hspace="20">](https://medium.com/@rahul26021999)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul26021999&show_icons=true&theme=radical)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=rahul26021999&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul26021999&show_icons=true)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul26021999&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
