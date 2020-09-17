@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rahul26021999/rahul26021999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### Hi there 👋, I'm Rahul Gupta
+<br>
 #### Backend Developer @ Across The Globe | Android Developer @ Datsme - Friend Finder App | Master Of Computer Application @ Jawaharlal Nehru University  
 
-I am a Experienced Back End Developer with a demonstrated history of working in the information technology and services industry. Skilled in Mobile Application Development, Firebase, Android, Android Development, and Web Development. Strong engineering professional with a Master of Computer Applications - MCA focused in Computer Science from Jawaharlal Nehru University.
-
-Skills: Android / Laravel / PHP / MYSQL / MongoDB / Firebase / Kotlin / Java / C++ / Python 
+## Skills: Android / Laravel / PHP / MYSQL / MongoDB / Firebase / Kotlin / Java / C++ / Python 
 
 - 📫 How to reach me: rahul26021999@gmail.com 
 
