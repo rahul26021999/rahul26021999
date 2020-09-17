@@ -28,7 +28,7 @@ Android | Laravel | PHP | MYSQL | MongoDB | Firebase | Kotlin | Java | C++ | Pyt
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' hspace="20">](https://www.linkedin.com/in/rahul26021999/)                                  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' hspace="20">](https://www.instagram.com/rahulgupta_02/)                                    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' hspace="20">](https://twitter.com/rahul26021999)                                                   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40' hspace="20">](https://medium.com/@rahul26021999)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul26021999&show_icons=true&theme=radial)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul26021999)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul26021999&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul26021999&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/rahul26021999)
