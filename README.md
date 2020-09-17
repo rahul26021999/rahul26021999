@@ -7,9 +7,10 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋, I'm Rahul Gupta  
+
 ![Profile views](https://gpvc.arturio.dev/rahul26021999)
 <p align="center">
+    ### Hi there 👋, I'm Rahul Gupta
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
