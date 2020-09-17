@@ -7,11 +7,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋, I'm Rahul Gupta   ![Profile views](https://gpvc.arturio.dev/rahul26021999)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' hspace="20">](https://www.linkedin.com/in/rahul26021999/)                                  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' hspace="20">](https://www.instagram.com/rahulgupta_02/)                                    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' hspace="20">](https://twitter.com/rahul26021999)                                                   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40' hspace="20">](https://medium.com/@rahul26021999)
-
-[<img src='https://cutewallpaper.org/21/software-developer-wallpaper/Senior-Software-Engineer-Archer-Specialist-Recruitment.png' alt='github' width='100%'>](https://github.com/rahul26021999)
+### Hi there 👋, I'm Rahul Gupta  
 
 - 🔭 I’m currently working on Larvel Development
 - 🌱 I’m currently learning Python 
@@ -21,10 +17,18 @@ Here are some ideas to get you started:
 ### My Experience
 - Backend Developer @ Across The Globe   
 - Android Developer @ Datsme - Friend Finder App 
-- Backend Devloper @ W3Dev 
+- Backend Devloper @ W3Dev
+
+[<img src='https://cutewallpaper.org/21/software-developer-wallpaper/Senior-Software-Engineer-Archer-Specialist-Recruitment.png' alt='github' width='100%'>](https://github.com/rahul26021999)
 
 
 ### Skills
 Android | Laravel | PHP | MYSQL | MongoDB | Firebase | Kotlin | Java | C++ | Python 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul26021999&show_icons=true&theme=dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul26021999)](https://github.com/anuraghazra/github-readme-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' hspace="20">](https://www.linkedin.com/in/rahul26021999/)                                  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' hspace="20">](https://www.instagram.com/rahulgupta_02/)                                    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' hspace="20">](https://twitter.com/rahul26021999)                                                   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40' hspace="20">](https://medium.com/@rahul26021999)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul26021999&show_icons=true&theme=radial)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul26021999)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/rahul26021999)
