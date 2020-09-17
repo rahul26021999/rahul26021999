@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="mailto:rahul26021999@gmail.com">rahul26021999@gmail.com</a>
 
 ### My Experience
-- Backend Developer @ Across The Globe   
-- Android Developer @ Datsme - Friend Finder App 
-- Backend Devloper @ W3Dev
+- Backend Developer @ <a href="https://atg.world/">Across The Globe</a>
+- Android Developer @ <a href="http://datsme.io/">Datsme - Friend Finder App</a> 
+- Backend Devloper @ <a href="https://w3dev.in/">W3Dev</a>
 
 [<img src='https://cutewallpaper.org/21/software-developer-wallpaper/Senior-Software-Engineer-Archer-Specialist-Recruitment.png' alt='github' width='100%'>](https://github.com/rahul26021999)
 
