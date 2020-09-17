@@ -9,15 +9,8 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm Rahul Gupta
 
 
-
-<p align="center">
-    ![Profile views](https://gpvc.arturio.dev/rahul26021999)
-    ![Profile views](https://gpvc.arturio.dev/rahul26021999)
     ![Profile views](https://gpvc.arturio.dev/rahul26021999)
     
-  </p>
-
-
 - 🔭 I’m currently working on Larvel Development
 - 🌱 I’m currently learning Python 
 - 💬 Ask me about Web devlopment
