@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm Rahul Gupta
+#### Hi there 👋, I'm Rahul Gupta
 
-### Backend Developer @ Across The Globe | Android Developer @ Datsme - Friend Finder App | Master Of Computer Application @ Jawaharlal Nehru University  
+#### Backend Developer @ Across The Globe | Android Developer @ Datsme - Friend Finder App | Master Of Computer Application @ Jawaharlal Nehru University  
 
-## Skills: Android / Laravel / PHP / MYSQL / MongoDB / Firebase / Kotlin / Java / C++ / Python 
+### Skills: Android / Laravel / PHP / MYSQL / MongoDB / Firebase / Kotlin / Java / C++ / Python 
 
 - 📫 How to reach me: rahul26021999@gmail.com 
 
