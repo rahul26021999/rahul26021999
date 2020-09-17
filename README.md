@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I'm Rahul Gupta
-<br>
+
 ### Backend Developer @ Across The Globe | Android Developer @ Datsme - Friend Finder App | Master Of Computer Application @ Jawaharlal Nehru University  
 
 ## Skills: Android / Laravel / PHP / MYSQL / MongoDB / Firebase / Kotlin / Java / C++ / Python 
