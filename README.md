@@ -6,7 +6,8 @@ Here are some ideas to get you started:
 
 -->
 
-#### Hi there 👋, I'm Rahul Gupta
+### Hi there 👋, I'm Rahul Gupta
+
 
 - 🔭 I’m currently working on Larvel Development
 - 🌱 I’m currently learning Python 
@@ -23,19 +24,10 @@ Here are some ideas to get you started:
 
 
 ### Skills
-- Android 
-- Laravel
-- PHP 
-- MYSQL 
-- MongoDB 
-- Firebase 
-- Kotlin 
-- Java 
-- C++ 
-- Python 
+Android | Laravel | PHP | MYSQL | MongoDB | Firebase | Kotlin | Java | C++ | Python 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' hspace="20">](https://github.com/rahul26021999)                   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rahul26021999/)                                  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/rahulgupta_02/)                                    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rahul26021999)                                                   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@rahul26021999)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' hspace="20">](https://www.linkedin.com/in/rahul26021999/)                                  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40' hspace="20">](https://www.instagram.com/rahulgupta_02/)                                    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40' hspace="20">](https://twitter.com/rahul26021999)                                                   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40' hspace="20">](https://medium.com/@rahul26021999)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rahul26021999)](https://github.com/ryo-ma/github-profile-trophy)
 
