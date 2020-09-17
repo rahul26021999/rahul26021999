@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋, I'm Rahul Gupta  
+![Profile views](https://gpvc.arturio.dev/rahul26021999)
 
 - 🔭 I’m currently working on Larvel Development
 - 🌱 I’m currently learning Python 
@@ -31,4 +32,4 @@ Android | Laravel | PHP | MYSQL | MongoDB | Firebase | Kotlin | Java | C++ | Pyt
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul26021999&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul26021999&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/rahul26021999)
+
