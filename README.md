@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### Backend Developer @ Across The Globe | Android Developer @ Datsme - Friend Finder App | Master Of Computer Application @ Jawaharlal Nehru University  
 
-[<img src='https://cutewallpaper.org/21/software-developer-wallpaper/Senior-Software-Engineer-Archer-Specialist-Recruitment.png' alt='github' height='400'>](https://github.com/rahul26021999)
+[<img src='https://cutewallpaper.org/21/software-developer-wallpaper/Senior-Software-Engineer-Archer-Specialist-Recruitment.png' alt='github' width='100%'>](https://github.com/rahul26021999)
 
 ### Skills: Android / Laravel / PHP / MYSQL / MongoDB / Firebase / Kotlin / Java / C++ / Python 
 
