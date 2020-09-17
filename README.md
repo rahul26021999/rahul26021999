@@ -6,10 +6,8 @@ Here are some ideas to get you started:
 
 -->
 
-### Hi there 👋, I'm Rahul Gupta
 
-
-    ![Profile views](https://gpvc.arturio.dev/rahul26021999)
+### Hi there 👋, I'm Rahul Gupta ![Profile views](https://gpvc.arturio.dev/rahul26021999)
     
 - 🔭 I’m currently working on Larvel Development
 - 🌱 I’m currently learning Python 
